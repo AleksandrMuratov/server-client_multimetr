@@ -53,4 +53,4 @@ range3: соответствует диапазону [1000 ... 1000000) В\
 ### Инструкция по сборке:
 
 Установите [Qt 5.15.2](https://github.com/qt/qt5/tree/5.15.2) (возможно потребуется поправить исходники, на момент сборки проекта в них находились ошибки)
-Клонируйте проект и откройте папки server и client в [Qt creator](https://github.com/qt-creator/qt-creator?ysclid=lfjfvafimd531962902)
+Клонируйте проект и соберите оба приложения в [Qt creator](https://github.com/qt-creator/qt-creator?ysclid=lfjfvafimd531962902)
